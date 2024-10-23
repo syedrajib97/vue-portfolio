@@ -1,4 +1,4 @@
-# Simas Raudonis - Portfolio
+# Syed Rajib - Portfolio
 Personal Portfolio website made with VueJS and Vuetify.
 
 Visit: https://tutaru99.github.io || https://simasraudonis.eu
