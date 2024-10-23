@@ -41,11 +41,11 @@
                 <div id="border"></div>
               </h2>
             </div>
-            <h1>My name is Simas.</h1>
+            <h1>My name is Rajib.</h1>
             <h2>
-              I am a <span id="highligh"> Web Developer</span> &
-              <span id="highligh">Graphic Designer</span> <br />
-              Currently based in Esbjerg, Denmark
+              I am a <span id="highligh"> Software Enginner</span> &
+              <!-- <span id="highligh">Graphic Designer</span> <br /> -->
+              Currently based in Dhaka, Bangladesh
             </h2>
           </div>
         </v-col>
